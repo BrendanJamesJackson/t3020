@@ -3,7 +3,7 @@
 
 Name: Brendan Jackson
 Date: 7 June
-
+Scott Hazelhurst
 
 # Description of code -- for question 1.1 and 1.2
 
